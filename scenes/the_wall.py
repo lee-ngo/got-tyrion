@@ -66,7 +66,7 @@ class TheWall(Scene):
         raw_input("Press ENTER to continue...")
         print "\n"
 
-        print "In a week, you and the rest of the part arrive at The Wall."
+        print "In a week, you and the rest of the party arrive at The Wall."
         print "From the base at Castle Black, you stare up in amazement."
         print "The view is impressive. Miles of ice stretch in every direction."
         print "You've been invited to take the lift to the top of the wall."
